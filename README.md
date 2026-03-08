@@ -29,6 +29,21 @@
 
 [![dotenv](https://img.shields.io/badge/dotenv-464646?logo=dotenv&logoColor=white)](https://github.com/motdotla/dotenv)
 
+## Plain docs links
+
+- JavaScript (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- ECMAScript (spec, ECMA-262) docs: [https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+- TypeScript docs: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+- Node.js docs: [https://nodejs.org/](https://nodejs.org/)
+- Express docs: [https://expressjs.com/](https://expressjs.com/)
+- React docs: [https://react.dev/](https://react.dev/)
+- bcrypt docs: [https://www.npmjs.com/package/bcrypt](https://www.npmjs.com/package/bcrypt)
+- jsonwebtoken (JWT) docs: [https://www.npmjs.com/package/jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- PostgreSQL docs: [https://www.postgresql.org/](https://www.postgresql.org/)
+- dotenv docs: [https://github.com/motdotla/dotenv](https://github.com/motdotla/dotenv)
+
+---
+
 Professional, modular Node + TypeScript REST API built with Express and PostgreSQL.
 
 This project is a concise but production-minded starter for building RESTful services using:
@@ -225,13 +240,13 @@ Please open issues or PRs on the upstream repository.
 
 ---
 
-### Contact and Maintainer
+### Contact & Maintainer
 
 - **_Name:_** Md Abu Kayser - Full-Stack Engineer
 - **_Project:_** _server-with-express-ts_
 - **_Maintainer:_** [md-abu-kayser](https://github.com/md-abu-kayser)
-- **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **_Email:_** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
