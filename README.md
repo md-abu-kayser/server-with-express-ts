@@ -1,5 +1,9 @@
 # Server With Express (TypeScript) - REST API Starter
 
+<!-- MIT License -->
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
 Professional, modular Node + TypeScript REST API built with Express and PostgreSQL.
 
 This project is a concise but production-minded starter for building RESTful services using:
